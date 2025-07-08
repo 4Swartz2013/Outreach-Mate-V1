@@ -252,18 +252,6 @@ export const CommunicationsHub: React.FC = () => {
           </div>
 
           {/* Upgrade Banner */}
-          <div className="p-4 bg-gradient-to-r from-blue-500 to-purple-600 rounded-xl text-white">
-            <div className="flex items-center space-x-2 mb-2">
-              <Sparkles className="w-5 h-5" />
-              <span className="font-semibold text-sm">Upgrade to Pro</span>
-            </div>
-            <p className="text-xs text-blue-100 mb-3">
-              Unlock advanced features and unlimited enrichments
-            </p>
-            <button className="w-full bg-white text-blue-600 py-2 rounded-lg text-sm font-semibold hover:bg-blue-50 transition-colors">
-              Upgrade Now
-            </button>
-          </div>
         </div>
       </div>
 
